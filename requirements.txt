@@ -2,3 +2,4 @@ appmode
 matplotlib
 ipympl
 ipywidgets
+nodejs-bin
