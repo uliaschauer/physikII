@@ -1,5 +1,5 @@
-appmode
+#appmode
 matplotlib
 ipympl
 ipywidgets
-nodejs-bin
+#nodejs-bin
